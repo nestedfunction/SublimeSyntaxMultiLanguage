@@ -1,3 +1,6 @@
+## Even better:
+  - https://packagecontrol.io/packages/Markdown%20Extended
+
 ### Installing
 - Place in:
   ```%AppData%\Roaming\Sublime Text 3\Packages\User```
